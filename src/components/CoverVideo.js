@@ -110,7 +110,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.13"
             data-scroll-speed="4"
           >
-            W
+            Z
           </motion.h1>
           <motion.h1
             variants={item}
@@ -118,7 +118,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.09"
             data-scroll-speed="4"
           >
-            i
+            a
           </motion.h1>
           <motion.h1
             variants={item}
@@ -126,7 +126,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.06"
             data-scroll-speed="4"
           >
-            b
+            r
           </motion.h1>
           <motion.h1
             variants={item}
@@ -134,7 +134,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
-            e
+            a
           </motion.h1>
         </div>
         <motion.h2

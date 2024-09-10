@@ -134,7 +134,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Zara
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -188,7 +188,7 @@ const Footer = () => {
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              KhushiGarg
             </a>
           </span>
         </Bottom>
